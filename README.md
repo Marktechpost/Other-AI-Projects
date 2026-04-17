@@ -27,6 +27,8 @@ List of RAG, AI Infrastructure, Security Projects with Full Implementation codes
 
 ### AI Infrastructure
 
+▶ A Coding Guide to Build a Production-Grade Background Task Processing System Using Huey with SQLite, Scheduling, Retries, Pipelines, and Concurrency Control [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Distributed%20Systems/huey_async_tasks_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/17/a-coding-guide-to-build-a-production-grade-background-task-processing-system-using-huey-with-sqlite-scheduling-retries-pipelines-and-concurrency-control/)
+
 ▶ How to Build High-Performance GPU-Accelerated Simulations and Differentiable Physics Workflows Using NVIDIA Warp Kernels [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Scientific%20Computing/nvidia_warp_gpu_simulation_and_differentiable_physics_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/16/how-to-build-high-performance-gpu-accelerated-simulations-and-differentiable-physics-workflows-using-nvidia-warp-kernels/)
 
 ▶ How to Build an Elastic Vector Database with Consistent Hashing, Sharding, and Live Ring Visualization for RAG Systems [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Distributed%20Systems/elastic_vector_db_consistent_hashing_rag_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/25/how-to-build-an-elastic-vector-database-with-consistent-hashing-sharding-and-live-ring-visualization-for-rag-systems/)

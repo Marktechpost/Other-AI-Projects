@@ -18,6 +18,8 @@ List of RAG, AI Infrastructure, Security Projects with Full Implementation codes
 
 ### Security
 
+▶ How to Build a Dynamic Zero-Trust Network Simulation with Graph-Based Micro-Segmentation, Adaptive Policy Engine, and Insider Threat Detection [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Security/zero_trust_network_simulation_policy_engine_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/13/how-to-build-a-dynamic-zero-trust-network-simulation-with-graph-based-micro-segmentation-adaptive-policy-engine-and-insider-threat-detection/)
+
 ▶ A Coding Implementation to Recover Hidden Malware IOCs with FLARE-FLOSS Beyond Classic Strings Analysis [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Security/recover_hidden_malware_iocs_with_flare_floss_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/09/a-coding-implementation-to-recover-hidden-malware-iocs-with-flare-floss-beyond-classic-strings-analysis/)
 
 ▶ A Coding Implementation to Build an AI-Powered File Type Detection and Security Analysis Pipeline with Magika and OpenAI [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Security/magika_openai_file_detection_security_analysis_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/19/a-coding-implementation-to-build-an-ai-powered-file-type-detection-and-security-analysis-pipeline-with-magika-and-openai/)
